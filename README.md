@@ -1,2 +1,2 @@
 # Lightning1
-Its a backup of my Lightning repository which needs to be organised.
+Its a backup of my Lightning repository of my other account which needs to be organised.
