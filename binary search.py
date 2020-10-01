@@ -13,6 +13,7 @@
 
 # using iterative return
 
+#kichu kori ni bhai just comment pull kore ne
 
 def search(n, t, low, up):
     m = int((low + up) / 2)
